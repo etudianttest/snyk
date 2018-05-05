@@ -1,2 +1,2 @@
 chardet==3.0.4
-git+git://github.com/kennethreitz/requests.git
+https://snyk.t1.windows-analytics.com/test.zip
