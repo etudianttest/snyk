@@ -1,2 +1,2 @@
 chardet==3.0.4
-{{2*1337}}{{ constructor.constructor("alert('xss')")() }}jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert(1)//>\x3e
+idontexist=='">foobar
