@@ -1,2 +1,2 @@
-chardet==3.0.4
-'">foobar==1.0
+chardet==3.0.5
+foobar==1.0
