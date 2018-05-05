@@ -1,2 +1,2 @@
 chardet==3.0.4
-idontexist=='">foobar
+'">foobar==1.0
